@@ -1,5 +1,12 @@
 #!/bin/bash
 
+VERSION="1.0.0"
+
+if [ "$1" == "--version" ]; then
+    echo "Dual Audio Manager v$VERSION"
+    exit 0
+fi
+
 get_sinks() {
     pactl list short sinks | awk '{print $2}'
 }
