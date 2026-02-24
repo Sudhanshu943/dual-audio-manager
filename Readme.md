@@ -1,5 +1,12 @@
 # Dual Audio Manager
 
+# Dual Audio Manager
+
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Linux-blue)
+![Shell](https://img.shields.io/badge/language-Bash-orange)
+![PipeWire](https://img.shields.io/badge/audio-PipeWire%20%7C%20PulseAudio-purple)
+
 A lightweight CLI tool to manage **single, dual, and multi audio outputs** on Linux.
 
 Supports:
