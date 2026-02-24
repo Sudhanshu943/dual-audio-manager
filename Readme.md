@@ -228,5 +228,5 @@ MIT License
 
 # Author
 
-Your Name  
-GitHub: https://github.com/YOUR_USERNAME
+Sudhanshu Thapa
+GitHub: https://github.com/Sudhanshu943/dual-audio-manager.git
